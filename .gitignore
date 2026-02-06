@@ -1,0 +1,25 @@
+# OS files
+.DS_Store
+Thumbs.db
+.AppleDouble
+.LSOverride
+*.swp
+*.swo
+*~
+
+# Editor/IDE files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.env
+.env.local
+
+# Build artifacts
+/build/
+/dist/
+node_modules/
+
+# OS-specific
+Icon?
+ehthumbs.db
